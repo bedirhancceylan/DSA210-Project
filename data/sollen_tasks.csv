@@ -1,0 +1,487 @@
+task_id,title,task_category,priority_level,assigned_to,creation_date,completion_date,actual_duration_days,delay_label,has_urgent_tag
+2,Flutter initiate,tech,medium,Developer_A,2024-10-18 10:23:35,2024-11-20 17:29:55,33.29606481481481,on_time,0
+3,Login Screen - 1,tech,medium,Developer_B,2024-10-18 10:29:40,2024-11-20 17:29:49,33.29177083333333,on_time,0
+4,Backend login API,tech,medium,Developer_A,2024-10-18 10:29:51,2024-10-31 18:43:54,13.343090277777778,on_time,0
+5,Login Screen - 2,tech,medium,Developer_A,2024-10-18 10:32:40,2024-11-20 17:29:53,33.2897337962963,on_time,0
+6,Sollen Genel Tanıtım Dosyası - 1,product,medium,Developer_C,2024-10-18 10:37:26,2024-11-24 14:40:21,37.168692129629626,on_time,0
+9,Logonun Finalize olması,design,medium,Developer_D,2024-10-18 10:39:23,2024-11-15 17:07:25,28.269467592592594,delayed,0
+10,Backend modellerinin kararlı hale getirilmesi,tech,medium,Developer_A,2024-10-23 13:06:33,2025-01-03 18:04:51,72.20715277777778,delayed,0
+11,modellerin update'leri ve authorization ayarlanması,tech,medium,Developer_A,2024-10-23 13:07:45,2025-02-05 20:23:17,105.3024537037037,delayed,0
+15,repeated ve unnecessary dosya temizliği,tech,medium,Developer_A,2024-10-23 13:08:38,2025-01-03 18:04:57,72.20577546296296,delayed,0
+17,logo ve iconlar tasarımdan alınıp ui'a ekleme,tech,medium,Developer_E,2024-10-23 13:09:51,2025-08-14 13:38:59,295.02023148148146,delayed,0
+18,içeri dallanan sayfalar ekleme (UI),tech,medium,Developer_A,2024-10-23 13:10:02,2025-02-10 20:10:53,110.29225694444445,delayed,0
+19,içeri dallanan sayfalar ekleme (functional),tech,medium,Developer_A,2024-10-23 13:10:24,2025-05-29 19:09:35,218.24943287037038,delayed,0
+20,navbar sayfaları ekleme,tech,medium,Developer_A,2024-10-23 13:10:36,2025-05-29 19:10:12,218.24972222222223,delayed,0
+22,database structure oluşturma,tech,medium,Developer_A,2024-10-24 19:15:54,2025-01-03 18:04:53,70.95068287037037,delayed,0
+24,"Hedef Sektörlerin Pazar Büyüklüklerinin Araştırılması ve Hesaplanması, Pazar Alanının Belirlenmesi",research,high,Developer_F,2024-10-24 19:33:57,2024-11-24 21:19:09,31.073055555555555,delayed,0
+28,Logo Taslak-1,design,medium,Developer_D,2024-10-31 13:35:53,2024-10-31 19:16:46,0.23672453703703702,on_time,0
+29,Renk Paleti,design,medium,Developer_D,2024-10-31 13:36:05,2024-10-31 19:16:40,0.23651620370370371,on_time,0
+30,İlk kayıt kısmı-taslak1-Ara yüz tasarım,design,medium,Developer_D,2024-10-31 13:36:26,2024-11-04 23:55:58,4.430231481481481,on_time,0
+31,Ana Sayfa-taslak1-Ara yüz tasarım,design,medium,Developer_D,2024-10-31 13:36:54,2024-11-04 23:51:58,4.427129629629629,on_time,0
+32,İrtibat Sorumluları kısımları-taslak1-Ara yüz tasarım,design,medium,Developer_D,2024-10-31 13:37:38,2024-11-04 23:52:54,4.4272685185185185,on_time,0
+34, *Acil durum çantası sayfa-taslak1- ara yüz tasarım,design,medium,Developer_D,2024-10-31 15:18:51,2024-11-05 15:22:19,5.002407407407407,on_time,0
+35,Eğitimler sayfa-taslak1- ara yüz tasarım,design,medium,Developer_D,2024-10-31 15:22:57,2024-11-05 15:22:23,4.999606481481481,on_time,0
+42,Dashboard ekranının oluşturulması ve hizalamalarının ayarlanması,tech,medium,Developer_A,2024-10-31 18:37:12,2024-11-20 17:29:41,19.953113425925928,on_time,0
+43,Dashboard ekranına online map eklenmesi,tech,medium,Developer_A,2024-10-31 18:37:53,2024-11-20 17:29:44,19.952673611111113,on_time,0
+44,Dashboard ekranın left side menu eklenmesi ve verinin dinamik şekilde oluşmasının sağlanması (modelview setup),tech,medium,Developer_A,2024-10-31 18:42:26,2024-11-20 17:29:46,19.949537037037036,on_time,0
+47,*Figma Sembol Çizimleri ,design,medium,Developer_D,2024-10-31 19:23:23,2024-11-05 15:22:11,4.8325,on_time,0
+54,AR-GE ve İş Geliştirme Başta Şirket Dokümanlarının Drive veya Azure'de Toparlanması,research,medium,Developer_F,2024-10-31 23:40:54,2024-11-24 21:18:58,23.901435185185186,delayed,0
+61,Information Page-taslak1-ara yüz tasarım,design,medium,Developer_D,2024-11-05 14:42:32,2024-11-05 15:37:27,0.03813657407407407,on_time,0
+62,Sollen Kurumsal Kimlik Elementleri-Dosya ve defter,design,medium,Developer_D,2024-11-05 14:50:36,2024-11-07 19:32:14,2.1955787037037036,on_time,0
+68,sucool - fikir madenciliği workshopuna katılım,operations,medium,Developer_G,2024-11-07 14:17:02,2024-11-07 19:25:53,0.21447916666666667,on_time,0
+69,sucool - fikir madenciliği workshopuna katılım,operations,medium,Developer_B,2024-11-07 14:17:11,2024-11-07 19:25:52,0.21436342592592592,on_time,0
+70,sucool - fikir madenciliği workshopuna katılım,operations,medium,Developer_A,2024-11-07 14:17:29,2024-11-07 19:25:54,0.21417824074074074,on_time,0
+71,sucool - fikir madenciliği workshopuna katılım,operations,medium,Developer_D,2024-11-07 14:17:36,2024-11-07 19:25:56,0.21412037037037038,on_time,0
+72,sucool - fikir madenciliği workshopuna katılım,operations,medium,Developer_C,2024-11-07 14:17:43,2024-11-07 19:25:55,0.2140277777777778,on_time,0
+73,sucool - fikir madenciliği workshopuna katılım,operations,medium,Developer_H,2024-11-07 14:17:53,2024-11-07 19:25:50,0.21385416666666668,on_time,0
+74,sucool - fikir madenciliği workshopuna katılım,operations,medium,Developer_F,2024-11-07 14:18:07,2024-11-07 19:25:50,0.21369212962962963,on_time,0
+75,Sollen 5 Ürün-Kurumsal Kimlik-Logo texture-Bez çanta-Tişört,design,medium,Developer_D,2024-11-07 19:31:29,2024-12-05 20:31:38,28.041770833333334,delayed,0
+76,AI entegrasyon alanlarının tartışılması,research,medium,Developer_F,2024-11-07 19:33:05,2024-12-04 22:51:34,27.137835648148148,delayed,0
+77,Sigorta Şirketlerinin IK ve ISG birimlerinde iletişim bulma,research,medium,Developer_H,2024-11-07 19:34:06,2025-02-06 00:37:51,90.2109375,delayed,0
+78,2209 araştırılması a/b,research,medium,Unassigned,2024-11-07 19:35:10,2024-11-24 21:23:08,17.07497685185185,delayed,0
+79,finansal planlama taslağı,product,medium,Developer_C,2024-11-07 19:36:25,2025-02-03 20:09:05,88.02268518518518,delayed,0
+80,Sollen one-pager,product,medium,Developer_C,2024-11-07 19:40:09,2024-12-11 02:02:00,33.26517361111111,on_time,0
+81,cafer-businness canvas,product,medium,Developer_I,2024-11-07 19:40:39,2025-02-03 20:09:04,88.0197337962963,delayed,0
+82,sollen ai training,operations,medium,Developer_G,2024-11-07 19:41:12,2024-11-14 16:29:08,6.86662037037037,on_time,0
+83,app içerisindeki font'ların stabilizasyonu,design,low,Developer_D,2024-11-10 14:52:50,2024-11-18 22:00:47,8.2971875,on_time,1
+86,Figma SEMBOLller Dosa Ayırma ,design,medium,Developer_D,2024-11-12 10:30:45,2024-11-14 19:13:50,2.363252314814815,on_time,0
+88,Sollen Uygulama Telefon üzerinde Mockup,design,medium,Developer_D,2024-11-12 15:55:00,2024-11-14 19:13:46,2.1380324074074073,on_time,0
+91,2209b lora formu oluşturulması,tech,medium,Developer_A,2024-11-14 18:58:06,2025-01-03 18:08:05,49.965266203703706,delayed,0
+92,2209a cafer formu doldurulması,tech,medium,Developer_A,2024-11-14 18:58:44,2025-01-03 18:08:03,49.96480324074074,delayed,0
+93,"Dosya Organizasyonunun Güncellenebilmesi İçin Bir GPT Oluşturulması, Test Edilmesi ve Linkinin Paylaşımı",research,medium,Developer_F,2024-11-17 22:58:24,2024-11-24 21:21:05,6.932418981481481,on_time,0
+94,Kurumsal Elementler- matara- first aid-sırt çanta,design,medium,Developer_D,2024-11-18 21:56:05,2024-11-18 22:00:55,0.0033564814814814816,on_time,0
+95,sunum güncelleme-deneme,design,medium,Developer_D,2024-11-18 21:57:03,2024-12-05 20:50:41,16.953912037037036,on_time,0
+97,Websitesi & SM Blog Yazıları - Blog Yazılabilecek Konuların Belirlenmesi ve Araştırılması,research,medium,Developer_F,2024-11-19 19:21:26,2024-12-13 01:13:16,23.244328703703705,delayed,0
+100,"Mevcut Tasarımların Drive'daki ""Tasarım"" Ortak Dosyasına Kopyalanması ve Organizasyonu",research,medium,Developer_F,2024-11-19 19:24:31,2024-11-26 18:44:29,6.972199074074074,on_time,0
+101,özgehan ile buluşma,research,medium,Developer_G,2024-11-19 20:50:55,2025-01-24 19:47:38,65.95605324074074,delayed,0
+103,cafer-one pager,product,medium,Developer_I,2024-11-19 21:05:42,2025-02-03 20:09:06,75.96069444444444,delayed,0
+104,ISGenius - one pager,product,medium,Developer_C,2024-11-19 21:05:53,2024-12-04 18:28:59,14.891041666666666,on_time,0
+105,ISGenius - businness canvas,product,medium,Developer_C,2024-11-19 21:07:51,2025-02-03 20:09:07,75.95921296296297,delayed,0
+106,BIGG3INN araştırması,product,medium,Developer_C,2024-11-20 17:07:51,2024-12-04 18:28:38,14.056099537037037,on_time,0
+111,Sunum revizesi,product,medium,Developer_C,2024-12-04 18:28:10,2024-12-11 02:02:10,6.315277777777778,on_time,0
+112,Blog ve İçerik Çıkarılırken İzlenecek Yol Haritasının ve Genel Çerçevenin Belirlenmesi - 1,research,medium,Developer_D,2024-12-04 22:46:27,2024-12-04 22:48:56,0.001724537037037037,on_time,0
+113,Blog ve İçerik Çıkarılırken İzlenecek Yol Haritasının ve Genel Çerçevenin Belirlenmesi - 2,research,medium,Developer_C,2024-12-04 22:49:16,2024-12-04 22:50:47,0.0010532407407407407,on_time,0
+114,Blog ve İçerik Çıkarılırken İzlenecek Yol Haritasının ve Genel Çerçevenin Belirlenmesi - 3,research,medium,Developer_I,2024-12-04 22:49:21,2024-12-04 22:50:30,0.0007986111111111112,on_time,0
+115,AI Entegrasyon Alanlarının Tartışılması,research,medium,Developer_A,2024-12-04 22:51:25,2024-12-04 22:52:28,0.0007291666666666667,on_time,0
+116,AI Entegrasyon Alanlarının Tartışılması -1 ,research,medium,Developer_B,2024-12-04 22:52:59,2024-12-04 22:53:16,0.00019675925925925926,on_time,0
+118,UI-tatbikatlar-eşleşme-tahliye-ticket-bildirimler-duyurular,design,medium,Developer_D,2024-12-05 20:33:44,2025-02-05 20:39:34,62.004050925925924,delayed,0
+119,Create/Update User model with Pydantic,tech,medium,Developer_A,2024-12-05 21:01:40,2025-01-03 18:05:15,28.877488425925925,on_time,0
+120,Added user status and mode enums,tech,medium,Developer_A,2024-12-05 21:02:14,2025-01-03 18:05:26,28.877222222222223,on_time,0
+121,Updated location model to use GeoJSON,tech,medium,Developer_A,2024-12-05 21:02:21,2025-01-03 18:05:38,28.877280092592592,on_time,0
+122,Added check-in and location update timestamps,tech,medium,Developer_A,2024-12-05 21:02:36,2025-01-03 18:05:59,28.877349537037038,on_time,0
+123,Create/Update Company model,tech,medium,Developer_A,2024-12-05 21:02:43,2025-01-03 18:06:05,28.87733796296296,on_time,0
+124,Added detailed floor plan model,tech,medium,Developer_A,2024-12-05 21:02:50,2025-01-03 18:06:09,28.87730324074074,on_time,0
+125,Added evacuation point model with pixel and GPS coordinates,tech,medium,Developer_A,2024-12-05 21:02:57,2025-01-03 18:06:17,28.877314814814813,on_time,0
+126,Create Location model for coordinates,tech,medium,Developer_A,2024-12-05 21:03:21,2025-01-03 18:06:23,28.87710648148148,on_time,0
+127,User registration endpoint,tech,medium,Developer_A,2024-12-05 21:03:33,2025-01-03 18:06:40,28.877164351851853,on_time,0
+128,Profile update endpoint,tech,medium,Developer_A,2024-12-05 21:03:40,2025-01-03 18:06:47,28.877164351851853,on_time,0
+129,Company registration endpoint,tech,medium,Developer_A,2024-12-05 21:03:57,2025-01-03 18:06:54,28.87704861111111,on_time,0
+130,Floor plan management endpoints,tech,medium,Developer_A,2024-12-05 21:04:04,2025-01-03 18:06:59,28.877025462962962,on_time,0
+131,Evacuation point management endpoints,tech,medium,Developer_A,2024-12-05 21:04:13,2025-01-03 18:07:04,28.87697916666667,on_time,0
+132,Disaster Mode activation/deactivation endpoint,tech,medium,Developer_A,2024-12-05 21:04:37,2025-01-03 18:07:13,28.876805555555556,on_time,0
+133,MongoDB geospatial indexing setup,tech,medium,Developer_A,2024-12-05 21:05:07,2025-01-03 18:07:20,28.876539351851854,on_time,0
+134,Document upload/download system,tech,medium,Developer_A,2024-12-05 21:05:19,2025-01-03 18:07:24,28.87644675925926,on_time,0
+135,Floor plan image processing,tech,medium,Developer_A,2024-12-05 21:05:29,2025-01-03 18:07:31,28.87641203703704,on_time,0
+136,Unit Tests,tech,medium,Developer_A,2024-12-05 21:05:49,2025-01-03 18:07:44,28.876331018518517,on_time,0
+137,Model validation tests,tech,medium,Developer_A,2024-12-05 21:05:56,2025-01-03 18:07:37,28.87616898148148,on_time,0
+138,API endpoint tests,tech,medium,Developer_A,2024-12-05 21:06:06,2025-01-03 18:07:49,28.87619212962963,on_time,0
+141, File upload/download tests,tech,medium,Developer_J,2024-12-05 21:06:35,2025-02-25 10:55:11,81.57541666666667,delayed,0
+142,Finansal gider tablosuna göre gelir planlama - 1,product,medium,Developer_I,2024-12-07 15:43:36,2025-02-03 20:10:13,58.185150462962966,delayed,0
+143,Finansal gider tablosuna göre gelir hesaplama - 2,product,medium,Developer_C,2024-12-07 15:43:56,2025-02-03 20:10:08,58.18486111111111,delayed,0
+144,ISG masraflarının bulunması,research,high,Developer_F,2024-12-07 15:46:58,2025-01-29 21:01:17,53.218275462962964,delayed,1
+145,Afet Durumu - Uygulama Kullanımının ve İşlevinin Aktarılması İçin Öncül Senaryo Araştırması,research,medium,Developer_F,2024-12-07 16:00:12,2024-12-26 18:54:46,19.12122685185185,delayed,0
+146,Brand Manual Sollen,design,medium,Developer_D,2024-12-12 19:02:25,2024-12-17 12:43:40,4.736979166666667,on_time,0
+147,Sollen canva sunum revize,design,medium,Developer_D,2024-12-12 19:03:01,2024-12-17 12:43:35,4.736504629629629,on_time,0
+148,Gebze OSB'lerdeki Şirketlerin Çalışan Sayılarına Göre Listelenmesi,research,medium,Developer_F,2024-12-13 01:10:42,2025-01-29 21:00:15,47.826076388888886,delayed,0
+149,Sollen product broşür,design,medium,Developer_D,2024-12-17 12:33:07,2024-12-17 12:43:55,0.0075,on_time,0
+150,sollen Brandmanual Mockup ,design,medium,Developer_D,2024-12-17 12:33:28,2024-12-17 12:43:44,0.00712962962962963,on_time,0
+151,Websitesi - Seçilen Blog Yazılarının Taslak İçeriklerinin Yazılması,research,medium,Developer_F,2024-12-17 17:09:34,2025-04-11 22:24:57,115.2190162037037,delayed,0
+152,Yatay Brand Manuel,design,medium,Developer_D,2024-12-26 17:59:18,2024-12-26 18:01:04,0.0012268518518518518,on_time,0
+153,Türkçe SLM ön araştırması,tech,medium,Developer_A,2024-12-26 18:34:37,2025-01-03 18:10:27,7.983217592592593,on_time,0
+155,Senaryo Araştırması - Röportajlar İçin Taslak Doküman Oluşturma,research,medium,Developer_F,2024-12-26 19:17:40,2025-01-02 00:13:27,6.205405092592593,on_time,0
+156,tişört baskı araştırma,operations,medium,Developer_H,2024-12-26 19:26:09,2025-01-24 19:56:42,29.021215277777777,delayed,0
+158,KARTLARA SP VERMEK!!!!!,tech,medium,Developer_A,2024-12-26 19:41:58,2025-01-24 19:42:52,29.000625,on_time,1
+160,Match frontend with the auth updates from the backend,tech,medium,Developer_A,2025-01-03 18:17:52,2025-02-05 20:23:41,33.08737268518519,on_time,0
+161,Onboarding-eğitim,tech,medium,Developer_A,2025-01-24 19:43:34,2025-01-29 20:11:55,5.0196875,on_time,0
+163,Uydu araştırması - 2,research,medium,Developer_F,2025-01-24 19:44:44,2025-01-29 20:59:09,5.051678240740741,on_time,0
+166,linktree,product,medium,Developer_I,2025-01-24 19:48:40,2025-02-07 21:58:56,14.090462962962963,on_time,0
+167,TÜBİTAK araştırma süreci ön planlama,research,medium,Developer_F,2025-01-24 19:59:17,2025-02-05 20:31:54,12.022650462962963,on_time,0
+168,onboarding toplantısı,tech,medium,Developer_E,2025-01-29 20:15:01,2025-01-29 20:35:19,0.014097222222222223,on_time,0
+169,onboarding toplantısı ,tech,medium,Developer_J,2025-01-29 20:15:29,2025-01-29 20:35:17,0.01375,on_time,0
+170,afad eğitimleri,operations,medium,Developer_A,2025-01-29 20:16:14,2025-02-22 18:17:21,23.91744212962963,delayed,0
+171,afad eğitimleri,operations,medium,Developer_F,2025-01-29 20:16:16,2025-02-07 21:49:24,9.064675925925926,on_time,0
+172,afad eğitimleri,operations,medium,Developer_C,2025-01-29 20:16:18,2025-04-11 20:23:18,72.00486111111111,delayed,0
+174,afad eğitimleri,operations,medium,Developer_E,2025-01-29 20:16:24,2025-02-07 21:50:35,9.065405092592593,on_time,0
+175,afad eğitimleri,operations,medium,Developer_J,2025-01-29 20:16:26,2025-02-03 20:19:52,5.00238425925926,on_time,0
+176,afad eğitimleri,operations,medium,Developer_H,2025-01-29 20:16:28,2025-02-10 20:05:32,11.992407407407407,on_time,0
+178,linkedın pazarlama araştırması,product,medium,Developer_C,2025-01-29 20:34:16,2025-04-11 20:21:34,71.99118055555556,delayed,0
+179,cv ekleme görüşmesi,research,medium,Developer_F,2025-01-29 20:38:09,2025-02-07 21:23:53,9.031759259259259,on_time,0
+180,cv ekleme görüşmesi,research,medium,Developer_H,2025-01-29 20:38:14,2025-02-07 21:48:45,9.048969907407407,on_time,0
+181,linktree tasarımları,design,medium,Developer_D,2025-01-29 20:38:39,2025-02-10 20:08:12,11.978854166666666,on_time,0
+182,Bedirhana tişört tasarımı yollanacak,design,medium,Developer_D,2025-02-03 20:04:26,2025-02-10 20:08:07,7.002557870370371,on_time,0
+183,Fix UI and backend connection,tech,medium,Developer_A,2025-02-03 20:04:50,2025-02-05 20:23:23,2.0128819444444446,on_time,0
+184,create a list of endpoints in backend api in markwon form with their explanations,tech,medium,Developer_J,2025-02-04 23:17:57,2025-05-15 18:45:35,99.81085648148148,delayed,0
+185,do research on how to publish ios applications to the apple market,tech,medium,Developer_E,2025-02-04 23:18:36,2025-02-09 16:52:51,4.7321180555555555,on_time,0
+186,İkonlar SVG,design,medium,Developer_D,2025-02-05 21:00:34,2025-04-09 22:07:52,63.04673611111111,delayed,0
+187,Herkes CVsini gülihalin attığı drive'a yükleyecek,research,medium,Developer_F,2025-02-07 21:51:12,2025-02-17 20:40:37,9.950983796296295,on_time,0
+190,conenct domains to wix and handle creds and connections,tech,medium,Developer_A,2025-02-08 16:48:16,2025-02-08 16:49:15,0.0006828703703703704,on_time,0
+193,flutter tutorial izleme: https://www.youtube.com/watch?v=3kaGC_DrUnw,tech,medium,Developer_J,2025-02-09 16:58:32,2025-05-15 18:45:25,95.07422453703704,delayed,0
+194,front endde displaylenen user infolarını backendden çekmek,tech,medium,Developer_E,2025-02-10 20:06:46,2025-08-14 13:39:44,184.73122685185186,delayed,0
+195,product ile dosya düzenleme-tasarım ,design,medium,Developer_D,2025-02-10 20:08:36,2025-05-07 20:24:25,86.0109837962963,delayed,0
+196,web sitesi içerik ve eklemeler planlaması ,design,medium,Developer_D,2025-02-10 20:08:53,2025-02-21 20:23:38,11.010243055555556,on_time,0
+197,Blog İçerikleri Uygulama Aşamasının Standardizasyonu ve Organizasyonu,research,medium,Developer_F,2025-02-12 17:07:04,2025-04-09 22:07:32,56.20865740740741,delayed,0
+198,Proje sunumu hazırlanması,product,medium,Developer_C,2025-02-12 19:35:44,2025-04-11 20:21:27,58.03174768518519,delayed,0
+199,Proje sunumu hazırlanması / Yapılmadı 13.04.2025,product,medium,Developer_I,2025-02-12 19:35:47,2026-01-21 20:05:12,343.0204282407407,delayed,0
+200,ChatGPT ile sohbetlerin verimliliğinin arttırılması adına standart bir büyük özet prompt oluşturulması,research,medium,Unassigned,2025-02-13 00:08:52,2025-02-14 22:18:42,1.9234953703703703,on_time,0
+202,flutter tutorial izleme: https://www.youtube.com/watch?v=3kaGC_DrUnw,tech,medium,Developer_K,2025-02-18 20:45:41,2025-05-01 13:34:59,71.70090277777778,delayed,0
+203,TÜBİTAK Konuları Uyumluluk Analizi,research,medium,Developer_F,2025-02-21 20:22:22,2025-02-21 20:23:42,0.000925925925925926,on_time,0
+204,SAR Uygulaması Karşılaştırma,research,medium,Developer_F,2025-02-21 20:22:40,2025-02-24 20:34:08,3.007962962962963,on_time,0
+205,Wix Blog,design,medium,Developer_D,2025-02-21 20:23:00,2025-05-07 20:24:31,75.00105324074075,delayed,0
+206,DisasTech Rakip Analizi,research,medium,Developer_F,2025-02-24 20:38:55,2025-02-24 20:42:48,0.0026967592592592594,on_time,0
+207,"do research on ""bluetooth le location""",tech,medium,Developer_K,2025-02-27 10:21:15,2025-04-13 20:21:29,45.4168287037037,delayed,0
+208,"do research on ""utra wide band location""",tech,medium,Developer_E,2025-02-27 10:21:31,2025-04-13 20:21:35,45.41671296296296,delayed,0
+209,"do research on ""wifi triangulation location""",tech,medium,Developer_J,2025-02-27 10:21:53,2025-04-22 14:29:44,54.17211805555556,delayed,0
+211,Özgehan Abilerle toplantı,research,medium,Unassigned,2025-02-28 19:57:06,2025-04-11 21:00:29,42.044016203703706,delayed,0
+212,DisasTech AI Rakip Analizi Geliştirilmesi,research,medium,Developer_C,2025-02-28 19:57:31,2025-04-11 20:22:30,42.017349537037035,delayed,0
+213,Intense AI Rakip Analizi,research,medium,Developer_C,2025-02-28 19:57:46,2025-04-11 20:22:34,42.01722222222222,delayed,0
+214,SOM-SAM-TAM Hesaplanması ve Segment & Pazarın Belirlenmesi,research,medium,Developer_F,2025-02-28 19:59:00,2025-04-09 22:06:00,40.08819444444445,delayed,0
+216,DisasTech AI Rakip Analizi Geliştirilmesi,research,medium,Developer_F,2025-02-28 20:02:03,2025-04-09 22:06:52,40.08667824074074,delayed,0
+218,PATENT Arastırma,design,medium,Developer_D,2025-04-09 22:08:24,2025-05-07 20:23:56,27.927453703703705,delayed,0
+219,Tech-bilgisayar panel için toplantı,design,medium,Developer_D,2025-04-09 22:08:39,2025-05-07 20:24:43,27.927824074074074,delayed,0
+220,"BIGG3IN: 1.4, 1.5, 1.6, 4.5, 5.1 ve genel düzenlemeler",operations,medium,Developer_F,2025-04-13 13:23:09,2025-04-13 13:24:01,0.0006018518518518519,on_time,0
+221,Frozen kategorisi ekle backlog içerisine,operations,medium,Developer_H,2025-04-16 21:31:33,2025-05-29 19:18:09,42.90736111111111,delayed,0
+222,bora system check,tech,medium,Developer_J,2025-04-17 11:25:24,2025-04-22 14:29:36,5.127916666666667,on_time,0
+223,dediş system check,tech,medium,Developer_K,2025-04-17 11:25:31,2025-04-22 14:29:32,5.127789351851852,on_time,0
+225,create the tech roadmap document,operations,medium,Developer_A,2025-04-17 13:52:48,2025-05-07 19:45:00,20.244583333333335,delayed,0
+226,drills view UI figma haline getirilmesi,tech,medium,Developer_K,2025-04-23 20:03:42,2025-05-01 10:32:19,7.603206018518518,on_time,0
+227,drilss backend implementasyonu,tech,medium,Developer_J,2025-04-23 20:04:05,2025-05-07 20:15:54,14.008206018518518,on_time,0
+228,webpage repo init,tech,medium,Developer_A,2025-04-23 20:04:47,2025-05-29 19:09:21,35.96150462962963,on_time,0
+229,WEB - Anasayfa,tech,medium,Developer_L,2025-04-23 20:05:15,2025-05-16 18:55:53,22.951828703703704,on_time,0
+230,Uzun Blog İçerikleri: İçerik ve Kaynakça Kontrolleri ile Önemli Bilgillerin Listelenmesi,research,medium,Developer_F,2025-04-23 20:50:06,2025-04-23 21:58:09,0.04725694444444444,on_time,0
+231,"Blog İçerik Optimizasyonu, Blog Sekmesine Ekleme, SM Ekibine Aktarım, LinkedIn Makalesine Dönüşüm",research,medium,Developer_F,2025-04-23 21:05:55,2025-05-11 15:45:10,17.777256944444446,delayed,0
+232,Ar-Ge 2025-2026 İş Planı,research,medium,Developer_F,2025-04-25 01:32:59,2025-05-22 21:16:37,27.821967592592593,delayed,0
+233,Blog yazılarının editi ve linkedlne uyarlanması,product,medium,Developer_C,2025-04-28 18:39:58,2025-09-05 13:12:36,129.77266203703704,delayed,0
+234,Detaylı saha araştırması ve görsellştirilmesi,product,medium,Developer_C,2025-04-28 18:40:17,2025-09-05 13:12:58,129.77269675925925,delayed,0
+235,Sigorta şirketleriyle ortaklık araştırması yapılması,product,medium,Developer_C,2025-04-28 18:41:14,2025-05-29 19:11:23,31.0209375,on_time,0
+236,Rakip analizlerinin görselleştirilmesi,product,medium,Developer_C,2025-04-28 18:41:52,2025-09-05 13:12:25,129.77121527777777,delayed,0
+237,Business canvas editi ve güncellemesi,product,medium,Developer_I,2025-04-28 18:42:34,2025-05-14 19:29:52,16.032847222222223,on_time,0
+238,dedis testler fixlenecek,tech,medium,Developer_K,2025-05-07 17:25:39,2025-05-07 20:16:03,0.11833333333333333,on_time,0
+241,dediş test fix,tech,medium,Developer_J,2025-05-07 17:27:12,2025-05-07 20:15:58,0.11719907407407408,on_time,0
+244,zeysu ile marka tescili araştırma ve başvuru,design,medium,Developer_D,2025-05-07 20:23:23,2025-05-28 23:22:27,21.124351851851852,delayed,0
+246,bilgisayar paneli- irtibat kişileri,design,medium,Developer_D,2025-05-07 20:25:16,2025-05-07 20:25:30,0.00016203703703703703,on_time,0
+247,Product Roadmap oluşturulması,product,medium,Developer_C,2025-05-07 20:37:21,2025-05-14 19:33:23,6.955578703703703,on_time,0
+248,broşür çıktısı alınıp zeysu verilecek,design,medium,Developer_D,2025-05-07 21:04:03,2025-05-12 15:29:53,4.767939814814815,on_time,0
+249,Mevcut TAM-SAM-SOM Yeniden Değerlendirme,research,medium,Developer_F,2025-05-10 18:32:14,2025-05-19 22:04:52,9.147662037037037,on_time,0
+250,LoRa Araştırmaları - Araştırma Sürecinin İnşası (MVP),research,medium,Developer_F,2025-05-10 18:32:45,2025-05-29 16:55:23,18.93238425925926,delayed,0
+251,En Son Güncel Mevzuatın Çıkarılıp Dokümantasyonu ve Analizi,research,medium,Developer_F,2025-05-10 18:33:22,2025-05-22 20:29:01,12.0803125,on_time,0
+252,onboarding backend,tech,medium,Developer_J,2025-05-11 13:19:41,2025-05-15 18:45:10,4.226030092592593,on_time,0
+253,onboarding frontend,tech,medium,Developer_K,2025-05-11 13:20:02,2025-05-13 19:58:49,2.2769328703703704,on_time,0
+254,irtibat sorumluları frontend,tech,medium,Developer_E,2025-05-11 13:20:26,2025-08-14 13:39:09,95.01299768518518,delayed,0
+257,Product Roadmap oluşturulması,product,medium,Developer_I,2025-05-11 17:25:02,2025-05-11 17:26:21,0.0009143518518518518,on_time,0
+258,Milestoneların belirlenmesi,product,medium,Developer_C,2025-05-11 17:26:42,2025-05-29 19:07:21,18.069895833333334,on_time,0
+260,Sollen 1 Yıllık Hedef Planlaması,product,medium,Developer_I,2025-05-14 15:49:00,2026-01-21 20:05:06,252.17784722222223,delayed,0
+261,Sollen 1 Yıllık Hedef Planlaması,product,medium,Developer_C,2025-05-14 19:31:03,2025-05-29 19:07:35,14.983703703703704,on_time,0
+262,WEB - İrtibat Kişileri Sayfa,tech,medium,Developer_L,2025-05-15 18:46:30,2025-05-16 18:55:52,1.0065046296296296,on_time,0
+269,Pazar Araştırması - Saha Araştırmasına Geçiş,research,medium,Developer_F,2025-05-18 17:39:52,2025-05-19 22:06:33,1.1851967592592592,on_time,0
+270,İrtibat Sorumluları Asil Belirleme (Liste üzerinden),tech,medium,Developer_E,2025-05-21 18:40:54,2025-08-14 13:39:15,84.79052083333333,delayed,0
+271,Tatbikatlar masaüstü,design,medium,Developer_D,2025-05-21 18:48:41,2025-05-28 23:38:34,7.20130787037037,on_time,0
+272,"Tech masaüstü toplantısı- Melih, Kerem",design,medium,Developer_D,2025-05-21 18:53:22,2025-05-28 23:21:43,7.186354166666667,on_time,0
+273,Mevzuat Analizinin Sunum formatına getirilmesi,research,medium,Developer_F,2025-05-22 20:29:18,2025-05-29 16:54:22,6.850740740740741,on_time,0
+274,bilgilendirme ekranı backend,tech,medium,Developer_J,2025-05-23 15:10:23,2025-07-08 14:05:44,45.955104166666665,delayed,0
+276,Retro ve Yoklama Formlarının Hazırlanması,operations,medium,Developer_H,2025-05-23 15:20:02,2025-05-23 15:20:36,0.0003935185185185185,on_time,0
+277,emergency contact zeysudan gelen feedback üzerine backend update,tech,medium,Developer_A,2025-05-23 18:33:30,2025-06-04 17:45:11,11.96644675925926,on_time,0
+278,emergency contact zeysudan gelen feedback üzerine frontend update,tech,medium,Developer_E,2025-05-23 18:33:34,2025-08-14 13:39:34,82.79583333333333,delayed,0
+279,bildirim-duyuru ekranları frontend,tech,medium,Developer_E,2025-05-26 16:51:20,2025-06-20 20:27:19,25.149988425925926,on_time,0
+280,bildirim-duyuru ekranları backend,tech,medium,Developer_A,2025-05-26 16:51:27,2025-06-20 20:23:50,25.147488425925925,on_time,0
+281,ticket sistemi backlend/frontend,tech,medium,Developer_E,2025-05-26 16:51:39,2025-10-01 20:53:24,128.16788194444445,delayed,0
+283,rollup canva tasarımı,design,medium,Developer_D,2025-05-28 23:21:20,2025-05-28 23:48:18,0.018726851851851852,on_time,0
+284,Gider tablosunun güncellenmesi,product,medium,Developer_I,2025-05-30 20:24:18,2026-01-21 20:05:09,235.9867013888889,delayed,0
+285,Gider tablosunun güncellenmesı,product,medium,Developer_C,2025-05-30 20:24:42,2025-10-20 22:04:07,143.06903935185184,delayed,0
+286,Gelir kalemlerinin belirlenmesi,product,medium,Developer_I,2025-05-30 20:24:45,2026-01-21 20:04:56,235.98623842592593,delayed,0
+287,Gelir kalemlerinin belirlenmesi,product,medium,Developer_C,2025-05-30 20:25:07,2025-10-20 22:03:55,143.06861111111112,delayed,0
+289,Sigorta Şirket Sunumlarına başlanması,product,medium,Developer_I,2025-05-30 20:25:30,2026-01-21 20:05:03,235.9857986111111,delayed,0
+292,Sigorta Şirket sunumuna başlanması,product,medium,Developer_C,2025-05-30 20:25:54,2025-09-05 13:10:01,97.69730324074074,delayed,0
+293,Linkedln Anasayfası oluşturulması,product,medium,Developer_C,2025-05-30 20:26:17,2025-09-05 13:09:57,97.69699074074074,delayed,0
+294,Acil durum çantası backend,tech,medium,Developer_E,2025-06-01 13:00:21,2025-11-12 20:52:48,164.3280902777778,delayed,0
+295,Acil durum çantası frontend,tech,medium,Developer_J,2025-06-01 13:00:31,2025-09-09 13:34:30,100.02359953703704,delayed,0
+297,eğitimler modülü frontend + backend,tech,medium,Developer_A,2025-06-01 13:01:08,2025-07-09 20:08:30,38.296782407407406,on_time,0
+299,Admin Paneli - Eklenebilecek İstatistiklerin Belirlenmesi,research,medium,Developer_F,2025-06-03 21:29:07,2025-06-13 16:39:30,9.798877314814815,on_time,0
+300,Admin Paneli - Eklenebilecek İstatistiklerin Danışılması ve Kesinleştirilmesi,research,medium,Developer_F,2025-06-03 21:30:31,2025-06-25 17:48:55,21.84611111111111,delayed,0
+302,Mevzuat Analizi - Özgehan Abi'ye Sunum,research,medium,Developer_F,2025-06-03 21:33:24,2025-06-25 17:50:23,21.845127314814814,delayed,0
+303,Mevzuat Analizi - Sunum Sonrası Güncellemeler,research,medium,Developer_F,2025-06-03 21:33:44,2025-07-05 15:09:40,31.733287037037037,delayed,0
+304,Mevzuat Analizi Optimizasyonu - Mevcut Analiz Adımlarının Tespiti,research,medium,Developer_F,2025-06-03 21:35:20,2025-06-11 13:32:20,7.664583333333334,on_time,0
+305,Mevzuat Analiz Optimizasyonu - Tespit Edilen Adımların Otomasyon İhtimallerinin Araştırılması,research,medium,Developer_F,2025-06-03 21:36:35,2025-06-17 21:41:34,14.003460648148149,on_time,0
+306,Mevzuat Analiz Optimizasyonu - Sürecin Optimize Edilmesi,research,medium,Developer_F,2025-06-03 21:41:17,2025-06-17 21:43:09,14.001296296296296,on_time,0
+307,giriş çıkış sf- masaüstü,design,medium,Developer_D,2025-06-04 17:06:11,2025-06-18 20:41:18,14.149386574074073,on_time,0
+308,eğitimler sf masaüstü,design,medium,Developer_D,2025-06-04 17:06:17,2025-06-29 22:06:08,25.208229166666666,delayed,0
+309,Acil durum Çantası yeni tasarım güncellemesi,design,medium,Developer_D,2025-06-04 17:06:29,2025-09-01 22:39:06,89.2309837962963,delayed,0
+310,tatbikatlar bilgi kontrol?-Hakan abiye soracağız,design,medium,Developer_D,2025-06-04 17:06:47,2025-09-01 22:36:32,89.22899305555555,delayed,0
+312,vegan iskender bulma -bursa,operations,medium,Developer_E,2025-06-04 17:44:28,2025-06-13 18:55:36,9.049398148148148,on_time,0
+313,onboarding emergency contact info primary secondary update,tech,medium,Developer_E,2025-06-04 17:51:40,2025-06-20 20:27:09,16.107974537037038,on_time,0
+315,bilgilendirme ekranı frontend,tech,medium,Developer_J,2025-06-11 17:17:42,2025-10-08 21:28:13,119.17396990740741,delayed,0
+317,admin web - tüm kullanıcılar arama filtreleme sayfası,design,medium,Developer_D,2025-06-11 18:01:11,2025-06-29 22:08:14,18.1715625,on_time,0
+318,Linktree kontrol,design,medium,Developer_D,2025-06-12 22:24:44,2025-06-29 22:07:57,16.988344907407406,on_time,0
+319,Gülnihal in excel den azure a uyarlama part-1,design,medium,Developer_D,2025-06-14 09:59:31,2025-06-29 22:06:01,15.504513888888889,on_time,0
+324,ISGenius ve Admin Paneli Kullanışlı Ekran Özetleri,research,medium,Developer_F,2025-06-20 19:18:01,2025-06-20 19:22:05,0.002824074074074074,on_time,0
+325,onboard,tech,medium,Developer_M,2025-06-20 20:28:44,2025-06-20 20:29:34,0.0005787037037037037,on_time,0
+326,retroların setlenmesi 25 haziran,operations,medium,Developer_H,2025-06-25 17:55:44,2025-06-25 17:56:12,0.00032407407407407406,on_time,0
+327,2 temmuz restoran araştırması,operations,medium,Developer_H,2025-06-25 17:56:25,2025-09-03 21:29:10,70.14774305555555,delayed,0
+328,slack kurulumu ve konfigüre edilmesi,operations,medium,Developer_H,2025-06-25 17:56:54,2025-06-25 17:57:07,0.00015046296296296297,on_time,0
+329,Node Basi Maliyet Hesabi,tech,medium,Developer_M,2025-06-26 20:15:00,2025-09-01 22:06:32,67.07745370370371,delayed,0
+330,Planlama,tech,medium,Developer_M,2025-06-26 20:16:48,2025-07-04 03:38:11,7.306516203703704,on_time,0
+331,Lora 1to1 Comm,tech,medium,Developer_M,2025-06-26 20:20:28,2025-07-04 03:38:01,7.3038541666666665,on_time,0
+332,WEB - Tatbikatlar arama filtresi,tech,medium,Developer_L,2025-06-27 13:58:54,2025-11-19 20:27:30,145.2698611111111,delayed,0
+334,Lora Range Test,tech,medium,Developer_M,2025-07-04 03:39:46,2025-08-09 10:14:54,36.27439814814815,on_time,0
+337,Lora Encrption,tech,medium,Developer_M,2025-07-04 21:37:06,2025-08-09 10:14:37,35.526053240740744,on_time,0
+338,Mevzuat Analizi - Ana Sunumlara Uygun Düzenlemeler,research,medium,Developer_F,2025-07-05 15:10:31,2025-07-11 17:30:30,6.097210648148148,on_time,0
+340,Beta Kullanıcı Testleri - Mevcut Modüllerin İncelenmesi ve Test Edilmesi,research,medium,Developer_F,2025-07-05 15:14:34,2025-07-28 19:10:11,23.163622685185185,delayed,0
+341,Beta Kullanıcı Testleri - MVP Sonrası Testler İçin Şablonların Oluşturulması,research,medium,Developer_F,2025-07-05 15:15:21,2025-07-07 19:54:22,2.193761574074074,on_time,0
+342,Admin Paneli İstatistikleri - Taslak Analitik Görselleştirmelerin Oluşturulması,research,medium,Developer_F,2025-07-05 15:19:40,2025-07-16 21:03:24,11.238703703703704,on_time,0
+343,Sunumlar için Malzeme Kütüphanesi Oluşturulması,research,medium,Developer_F,2025-07-05 15:22:03,2025-08-31 09:09:29,56.741273148148146,delayed,0
+346,merge all frontend,tech,medium,Developer_E,2025-07-09 20:02:42,2025-07-09 20:03:13,0.0003587962962962963,on_time,0
+347,merge all backend,tech,medium,Developer_A,2025-07-09 20:02:56,2025-07-09 20:03:18,0.0002546296296296296,on_time,0
+348,toplanma alanında eşleş frontend,tech,medium,Developer_E,2025-07-09 20:03:31,2025-10-18 14:29:31,100.76805555555555,delayed,0
+349,toplanma alanında eşleş backend,tech,medium,Developer_A,2025-07-09 20:03:36,2025-10-18 14:29:05,100.76769675925927,delayed,0
+350,mirsu feedbacks - 1,tech,medium,Developer_J,2025-07-09 20:06:03,2025-10-08 21:28:40,91.05737268518519,delayed,0
+351,mirsu feedbacks - 2,tech,medium,Developer_J,2025-07-09 20:06:18,2025-10-08 21:28:42,91.05722222222222,delayed,0
+353,generate app android build,tech,medium,Developer_A,2025-07-09 20:11:24,2025-07-09 20:11:45,0.00024305555555555555,on_time,0
+354,Web profilim sayfası,design,medium,Developer_D,2025-07-09 20:22:37,2025-09-01 22:43:09,54.09759259259259,delayed,0
+355,Product ile İşbirliği dosyası tasarım düzenleme ve toplantı,design,medium,Developer_D,2025-07-09 20:23:57,2025-09-01 22:37:14,54.09255787037037,delayed,0
+356,AKUT Uyaralaması-web,design,medium,Developer_D,2025-07-16 21:05:01,2025-09-01 22:37:11,47.06400462962963,delayed,0
+357,Linkedin landing page,design,medium,Developer_D,2025-07-16 21:05:11,2025-09-01 22:37:02,47.06378472222222,delayed,0
+358,Hakan abi güncellemeler,design,medium,Developer_D,2025-07-16 21:06:58,2025-09-01 22:37:44,47.063032407407405,delayed,0
+359,LoRa Kullanımına Dair Mevzuat Kısıtlarının Araştırılması,research,medium,Developer_F,2025-07-18 13:25:43,2025-07-18 13:26:23,0.000462962962962963,on_time,0
+360,Profil frontend/backend,tech,medium,Developer_E,2025-07-25 21:21:14,2025-11-12 20:52:51,109.98028935185185,delayed,0
+361,Profil frontend/backend,tech,medium,Developer_J,2025-07-25 21:22:18,2025-09-09 13:34:30,45.67513888888889,delayed,0
+362,ISGenius Logo,design,medium,Developer_D,2025-07-30 20:09:05,2025-09-01 22:43:12,33.107025462962966,delayed,0
+363,Masaüstü-mobil ve tech sayfalar-hepsini aynı yapma,design,medium,Developer_D,2025-07-30 20:09:22,2025-09-01 22:37:37,33.10295138888889,delayed,0
+364,Instagram İçerik Çalışması,design,medium,Developer_D,2025-07-30 20:09:47,2025-09-01 22:37:53,33.10284722222222,delayed,0
+366,"Test Sonuçlarının Dokümantasyonu, Aktarımı ve Test Planlamaları",research,medium,Developer_F,2025-08-04 21:14:02,2025-08-04 21:15:49,0.001238425925925926,on_time,0
+367,Bluetooth Mesh - Bireysel Araştırmanın Tamamlanması,research,medium,Developer_F,2025-08-04 21:16:28,2025-08-15 18:35:56,10.888518518518518,on_time,0
+368,Bluetooth Mesh - Bulguların Toparlanması ve Dokümantasyonu,research,medium,Developer_F,2025-08-04 21:16:53,2025-08-24 15:20:36,19.75258101851852,delayed,0
+369,Bluetooth Mesh - Araştırma Sonuçlarının Sunumu/Aktarımı,research,medium,Developer_F,2025-08-04 21:17:16,2025-08-28 20:01:08,23.94712962962963,delayed,0
+374,Lora Bütçe Planlama 1,tech,medium,Developer_A,2025-08-09 10:18:44,2025-09-02 20:48:16,24.437175925925924,on_time,0
+375,Lora Bütçe Planlama 2,tech,medium,Developer_M,2025-08-09 10:18:54,2025-09-01 22:06:41,23.491516203703704,on_time,0
+376,Lora Gateway Purchase 1,tech,medium,Developer_A,2025-08-09 10:27:12,2025-09-03 21:13:06,25.448541666666667,on_time,0
+377,Lora Gateway Purchase 2,tech,medium,Developer_M,2025-08-09 10:27:21,2025-09-03 21:20:42,25.45371527777778,on_time,0
+378,Lora Network Packet Implementation 1,tech,medium,Developer_A,2025-08-09 10:37:50,2025-11-15 22:51:52,98.50974537037037,delayed,0
+380,Lora Gateway Trials when it arrives 1,tech,medium,Developer_A,2025-08-09 10:38:24,2025-11-04 22:32:50,87.49613425925926,delayed,0
+382,Lora Node Seçimi 1,tech,medium,Developer_A,2025-08-09 10:54:35,2025-09-02 20:48:46,24.412627314814817,on_time,0
+383,Lora Node Seçimi 2,tech,medium,Developer_M,2025-08-09 10:54:44,2025-09-01 22:05:54,23.466087962962963,on_time,0
+384,profil sayfası içerik girme(Tatbikat durumu-eğitim,design,medium,Developer_D,2025-08-10 21:54:19,2025-09-10 21:15:23,30.972962962962963,delayed,0
+385,Yeni logo kimliği uyarlaması,design,medium,Developer_D,2025-08-10 21:54:53,2025-09-01 22:39:01,22.03064814814815,delayed,0
+386,"Zeysu ile toplantı, ek sayfalar hakkında konuşma",design,medium,Developer_D,2025-08-10 21:55:43,2025-09-10 21:15:13,30.971875,delayed,0
+391,Ömer Faruk İşeri ile Mülakat,tech,medium,Developer_A,2025-08-13 21:38:02,2025-09-02 20:48:50,19.965833333333332,on_time,0
+392,Database düzenlemesi,tech,medium,Developer_J,2025-08-14 13:32:35,2025-09-03 21:06:09,20.314976851851853,on_time,0
+393,Tüm ekranlar search ve side menu feature implementation ve check,tech,medium,Developer_E,2025-08-14 13:33:38,2025-11-28 19:51:27,106.26237268518518,delayed,0
+394,Design ile acil durum çantası konuşulacak,tech,medium,Developer_J,2025-08-14 13:34:39,2025-09-03 21:06:13,20.313587962962963,on_time,0
+395,Bilgilendirme ekranı tabler ayarlanacak,tech,medium,Developer_J,2025-08-14 13:36:12,2025-09-03 21:06:03,20.312395833333333,on_time,0
+396,"Talepler, notification ve ticketta kullanılan iconları renk skalasına göre ayarlanacak",tech,medium,Developer_E,2025-08-14 13:36:48,2025-10-18 14:29:26,65.03655092592592,delayed,0
+399,Yeni logo ekleme,tech,medium,Developer_E,2025-08-17 16:51:36,2025-11-12 20:52:46,87.16747685185184,delayed,0
+401,zeysu onboard,tech,medium,Developer_J,2025-08-20 20:43:34,2025-09-03 21:06:17,14.015775462962964,on_time,0
+402,zeysuya genelsel planlamasal,tech,medium,Developer_E,2025-08-20 20:47:22,2025-11-05 20:20:30,76.9813425925926,delayed,0
+403,Satış Dosyasına Başlanması,product,medium,Developer_I,2025-08-31 19:03:43,2026-01-21 20:05:00,143.04255787037036,delayed,0
+404,Satış Dosyasına Başlanması,product,medium,Developer_C,2025-08-31 19:03:59,2025-10-20 22:03:59,50.125,delayed,0
+407,Setup of Disassembled LoRa/ESP32 Circuit Boards (1.5 weeks),tech,medium,Developer_M,2025-09-03 20:12:34,2025-10-06 21:27:47,33.0522337962963,on_time,0
+408,Refactoring of Legacy Firmware Codebase for Current Gateway/Node Environment (1 week),tech,medium,Developer_M,2025-09-03 20:12:53,2025-10-06 21:28:11,33.05229166666667,on_time,0
+409,Bring-Up of New LoRa Nodes and RF Range/Signal Integrity Testing (1 week),tech,medium,Developer_M,2025-09-03 20:13:12,2025-11-04 22:39:50,62.1018287037037,delayed,0
+410,Deployment of LoRaWAN Network Server Using Legacy TTGO Devices (1 week),tech,medium,Developer_A,2025-09-03 20:13:58,2025-10-01 19:56:19,27.987743055555555,on_time,0
+411,Procurement of Raspberry Pi and Compatible mPCIe LoRaWAN Concentrator Adapter (0.5 weeks),tech,medium,Developer_A,2025-09-03 20:14:10,2025-09-22 23:45:54,19.147037037037038,on_time,0
+412,Integration and Validation of Raspberry Pi with mPCIe Gateway Module (1 week),tech,medium,Developer_A,2025-09-03 20:14:22,2025-10-01 19:56:22,27.9875,on_time,0
+413,End-to LoRaWAN Node → Gateway Communication Path Setup and Debugging (2 weeks),tech,medium,Developer_A,2025-09-03 20:14:37,2025-11-04 22:35:12,62.097627314814815,delayed,0
+415,Mevzuat Güncellemelerinin İncelenmesi ve Kaydedilmesi,research,medium,Developer_F,2025-09-04 21:32:35,2025-09-04 21:43:38,0.007673611111111111,on_time,0
+416,Fiyatlandırma ve rakip araştırması,product,medium,Developer_I,2025-09-05 13:10:35,2025-10-08 21:28:14,33.34559027777778,on_time,0
+417,Fiyatlandırma ve rakip araştırması,product,medium,Developer_C,2025-09-05 13:10:55,2025-10-08 21:27:58,33.345173611111115,on_time,0
+420,Bankadan kredi kartını teslim alma,operations,medium,Developer_G,2025-09-05 13:53:43,2025-10-20 15:00:56,45.04667824074074,delayed,0
+421,teknopark muafiyet belgesi,operations,medium,Developer_G,2025-09-05 13:54:01,2025-11-05 20:50:32,61.28924768518519,delayed,0
+423,mali müşavire mali mühür teslim et,operations,medium,Developer_G,2025-09-05 13:55:18,2025-10-20 15:00:48,45.04548611111111,delayed,0
+424,perpa ürün almaya git,operations,medium,Developer_G,2025-09-05 14:01:38,2025-10-20 15:00:41,45.04100694444445,delayed,0
+425,ağustos harcamalarını üstad'a gir,operations,medium,Developer_G,2025-09-05 14:43:57,2025-10-20 15:00:32,45.01151620370371,delayed,0
+426,güncel harcamaları sollen bankaya bağla,operations,medium,Developer_G,2025-09-05 14:44:14,2025-11-26 15:07:38,82.01625,delayed,0
+429,drive düzenleme,operations,medium,Developer_H,2025-09-05 15:48:36,2025-09-05 16:16:43,0.019525462962962963,on_time,0
+430,Fixing the issues on the Onboarding view,tech,medium,Developer_J,2025-09-05 17:01:24,2025-10-08 21:28:50,33.185717592592596,on_time,0
+431,Admin Paneli İstatistiklerinin Sınıflandırılması,research,medium,Developer_F,2025-09-05 21:20:24,2025-09-13 13:41:52,7.681574074074074,on_time,0
+432,Sollen Technologies Benzeri Startupların Gelir Kalemlerinin Araştırılması,research,medium,Developer_F,2025-09-05 21:21:16,2025-10-04 15:05:13,28.738854166666666,delayed,0
+433,Eczacıbaşı Sunumu - Notlar ve Bluetooth Mesh,research,medium,Developer_F,2025-09-06 20:27:15,2025-09-07 12:41:55,0.6768518518518518,on_time,0
+434,LC Waikiki Sunumu - Notlar,research,medium,Developer_F,2025-09-06 20:28:02,2025-09-20 13:34:48,13.713032407407407,on_time,0
+435,İDO Sunumu - Notlar,research,medium,Developer_F,2025-09-06 20:28:21,2025-09-20 13:34:44,13.712766203703703,on_time,0
+437,Eczacıbaşı sunum düzenlemeler ve eklemeler,design,medium,Developer_D,2025-09-08 21:06:49,2025-10-14 20:20:06,35.96755787037037,delayed,0
+438,Uygulama figma'daki yeni isGenius tasarımına güncellenecek.,tech,medium,Developer_J,2025-09-09 13:33:54,2025-10-08 21:28:46,29.32976851851852,on_time,0
+439,Fiyatlandırma öncesi bilgi toplanması,product,medium,Developer_C,2025-09-10 20:08:22,2025-10-08 21:27:56,28.05525462962963,on_time,0
+442,Satış Dosyası Tasarım Güncellemesi,design,medium,Developer_D,2025-09-10 21:15:37,2025-10-14 20:24:20,33.96438657407408,delayed,0
+447,Türkiye Çapında İSG Yazılımları Fiyat Araştırması,research,medium,Developer_F,2025-09-15 18:56:24,2025-09-18 22:01:52,3.1287962962962963,on_time,0
+448,Global İSG Yazılımları Fiyat Araştırması,research,medium,Developer_F,2025-09-15 18:56:46,2025-09-18 22:01:35,3.1283449074074072,on_time,0
+449,Paketlendirme ve Fiyatlandırma Analizleri,research,medium,Developer_F,2025-09-15 18:57:03,2025-09-20 13:26:29,4.770439814814814,on_time,0
+452,Ar-ge ile fiyatlandırma üzerine çalışılması,product,medium,Developer_I,2025-09-19 20:04:03,2025-10-08 21:28:09,19.05840277777778,on_time,0
+453,Dinamik Fiyatlandırma Şablonu Oluşturulması,research,medium,Developer_F,2025-09-20 13:27:53,2025-09-20 20:17:12,0.2842476851851852,on_time,0
+454,Yeni front'u appe geçirme,tech,medium,Developer_E,2025-09-23 20:23:02,2025-10-29 12:01:54,35.65199074074074,on_time,0
+455,acil durum ekranı,tech,medium,Developer_E,2025-09-23 20:23:07,2025-11-28 19:51:32,65.97806712962964,delayed,0
+456,LoRa + Genel Paketlendirme ve Fiyatlandırma Çalışmaları,research,medium,Developer_F,2025-09-28 13:13:53,2025-09-28 13:16:31,0.0018287037037037037,on_time,0
+457,ISGenius Eczacıbaşı Senaryoların Oluşturulması,research,medium,Developer_F,2025-09-28 13:15:25,2025-09-28 13:16:04,0.00045138888888888887,on_time,0
+458,"Setup ""rak_common_for_gateway"" on RPi",tech,medium,Developer_A,2025-10-02 00:33:28,2025-10-02 01:14:20,0.02837962962962963,on_time,0
+459,Eczacıbaşı Case Preperation,tech,medium,Developer_A,2025-10-02 00:34:04,2025-10-02 01:15:23,0.02869212962962963,on_time,0
+460,LoRaWAN Gateways İstanbul Locations Map Planning,tech,medium,Developer_A,2025-10-02 00:35:03,2025-10-02 01:15:59,0.028425925925925927,on_time,0
+461,Setup ChirpStack on a VPS and connect to RPi,tech,medium,Developer_A,2025-10-02 00:35:58,2025-10-02 01:13:53,0.026331018518518517,on_time,0
+463,Investigate Palo Alto Networks - SDWAN operations and report back by 08.09.2025,tech,medium,Developer_A,2025-10-02 01:10:37,2025-10-08 21:31:20,6.8477199074074075,on_time,0
+464,Test Sürecine Hazırlık Durumunun (Uygulama Gelişimi Açısından) Takip Sistemi Kurulumu,research,medium,Developer_F,2025-10-04 15:13:27,2025-10-04 15:14:57,0.0010416666666666667,on_time,0
+465,VPS Chirpstack setup (1 week),tech,medium,Developer_A,2025-10-06 21:41:30,2025-10-22 20:39:08,15.956689814814816,on_time,0
+466,Offline Gateway Communication Research (1 week),tech,medium,Developer_A,2025-10-06 21:43:43,2025-11-15 23:27:40,40.0721875,on_time,0
+467,3D Printer Seçilmesi - 0.5 week,tech,medium,Developer_M,2025-10-06 21:44:48,2025-11-04 22:38:53,29.03755787037037,on_time,0
+469,3D printer tedarik ve setup - 1 week,tech,medium,Developer_M,2025-10-06 21:46:19,2026-03-08 10:40:23,152.53754629629628,delayed,0
+470,Kartal Belediyesinin Testi - 1 week,tech,medium,Developer_M,2025-10-06 21:47:18,2026-03-08 10:40:07,152.53667824074074,delayed,0
+472,Admin tarafi web page login,tech,medium,Developer_E,2025-10-08 21:04:02,2025-11-28 19:59:58,50.95550925925926,delayed,0
+473,Admin tarafi duyuru ekrani,tech,medium,Developer_E,2025-10-08 21:04:17,2025-11-28 19:59:15,50.95483796296296,delayed,0
+474,Admin tarafi talep ekrani,tech,medium,Developer_E,2025-10-08 21:04:27,2025-11-28 19:55:20,50.95200231481481,delayed,0
+475,Admin irtibat sorumlusu (artık çalışanlar ekranı),tech,medium,Developer_E,2025-10-08 21:04:39,2025-12-17 20:15:05,69.9655787037037,delayed,0
+476,Admin tarafi tatbikat ekrani,tech,medium,Developer_E,2025-10-08 21:04:48,2026-01-07 20:41:11,90.98359953703704,delayed,0
+478,Admin route backend,tech,medium,Developer_E,2025-10-08 21:05:08,2025-10-29 12:02:09,20.62292824074074,on_time,0
+480,Admin tarafi eğitim ekrani,tech,medium,Developer_E,2025-10-08 21:05:54,2025-11-28 19:54:59,50.950752314814814,delayed,0
+481,Test Takip Sistemi - Notlarla İlk Güncelleme,research,medium,Developer_F,2025-10-14 00:23:55,2025-10-14 00:25:37,0.0011805555555555556,on_time,0
+482,ISGenius Kullanıcı Testi (Bireysel),research,medium,Developer_F,2025-10-14 00:24:55,2025-10-14 00:25:29,0.0003935185185185185,on_time,0
+483,Uluslararası Faaliyet Gösteren Müşterilerimize Sunabileceğimiz Raporlama Kolaylıkları,research,medium,Developer_F,2025-10-14 00:26:10,2025-11-28 21:20:00,45.87071759259259,delayed,0
+485,Acil Durum Anında Sayfaları,design,medium,Developer_D,2025-10-14 20:22:42,2025-10-14 20:23:50,0.000787037037037037,on_time,0
+486,Acil Durum Sonrası Sayfaları,design,medium,Developer_D,2025-10-14 20:22:57,2025-10-14 20:23:56,0.0006828703703703704,on_time,0
+487,Acil Durum Öncesi Sayfaları düzenleme,design,medium,Developer_D,2025-10-14 20:23:11,2025-10-14 20:23:58,0.0005439814814814814,on_time,0
+488,ISGenius Broşür,design,medium,Developer_D,2025-10-14 20:24:32,2025-11-05 20:23:29,21.999270833333334,delayed,0
+489,Heyzine linki kaldırma,design,medium,Developer_D,2025-10-14 20:24:37,2025-11-05 20:23:27,21.999189814814816,delayed,0
+491,Sosyal Medya toplantı- asset gönderimi ve tasarım planı,design,medium,Developer_D,2025-10-14 20:25:06,2025-10-20 17:25:52,5.875532407407407,on_time,0
+492,Arayüzler için drive dosyası,design,medium,Developer_D,2025-10-14 20:25:20,2025-10-20 17:24:38,5.874513888888889,on_time,0
+493,Masaüstü acil durum harita görünümü,design,medium,Developer_D,2025-10-14 20:27:01,2025-10-14 20:27:37,0.0004166666666666667,on_time,0
+494,masaüstü dijital ikiz görünümü,design,medium,Developer_D,2025-10-14 20:27:15,2025-10-14 20:27:35,0.0002314814814814815,on_time,0
+495,Fiyatlandırma için Sude ile ve ekip ile toplantı,design,medium,Developer_D,2025-10-14 20:31:06,2025-10-14 20:31:14,9.259259259259259e-05,on_time,0
+496,Tatbikatlar ekranı tarih overflowu düzeltilecek,tech,medium,Developer_J,2025-10-18 14:09:46,2025-11-05 12:19:34,17.923472222222223,on_time,0
+497,Bilgilendirme ekranı slidetab olarak güncellenecek,tech,medium,Developer_J,2025-10-18 14:10:30,2025-11-05 12:57:04,17.94900462962963,on_time,0
+498,Login screen y ekseninde overflow düzeltilecek,tech,medium,Developer_J,2025-10-18 14:14:18,2025-10-22 19:02:07,4.199872685185185,on_time,0
+499,Acil durum çantası ekranı ui güncellemeleri yapılacak,tech,medium,Developer_J,2025-10-18 14:15:55,2025-11-12 18:41:30,25.18443287037037,on_time,0
+500,Dashboard y ekseninde overflow düzeltilecek,tech,medium,Developer_J,2025-10-18 14:20:09,2025-11-05 12:19:21,17.91611111111111,on_time,0
+501,Profilim ekranı düzenle butonu implementation,tech,medium,Developer_J,2025-10-18 14:33:56,2025-12-10 16:50:02,53.09451388888889,delayed,0
+502,İrtibat sorumluları ekranı güncel haline getirilecek.,tech,medium,Developer_J,2025-10-18 14:38:40,2026-03-11 21:06:07,144.2690625,delayed,0
+503,Ömer Faruk İşeri repoların kurulumu,tech,medium,Developer_N,2025-10-18 14:41:29,2025-12-17 13:20:00,59.94341435185185,delayed,0
+505,LoRa Kurulu Araştırmaları - Türkiye'deki LoRa Araştırmacıları Vol.1,research,medium,Developer_F,2025-10-20 13:31:02,2025-10-21 23:22:04,1.4104398148148147,on_time,0
+506,eylül harcamalarını üstad'a gir,operations,medium,Developer_G,2025-10-20 15:01:31,2025-11-05 20:50:27,16.242314814814815,delayed,0
+507,argeportal ARGEPORTAL,operations,medium,Developer_G,2025-10-20 15:02:56,2025-11-05 20:50:25,16.24130787037037,delayed,0
+508,İDO toplantı + yoklama,operations,medium,Developer_G,2025-10-20 15:03:16,2025-10-20 15:09:53,0.004594907407407408,on_time,0
+509,sabancı-evren beye demo,tech,medium,Developer_M,2025-10-20 15:03:43,2025-11-04 22:37:04,15.31482638888889,on_time,0
+512,Sosyal Medya- İlk 9 Postun İçeriklerinin Belirlenmesi,product,medium,Developer_C,2025-10-20 22:04:44,2025-12-03 20:03:30,43.91581018518519,on_time,0
+513,Sosyal Medya- Görsel ve Şablon Oluşturulması,product,medium,Developer_C,2025-10-20 22:06:06,2025-12-03 20:03:40,43.914976851851854,on_time,0
+514,Sosyal Medya-İçerik belirlemesi,product,medium,Developer_I,2025-10-21 14:27:57,2025-11-28 19:57:17,38.2287037037037,on_time,0
+515,Sosyal Medya-İlk üç postun içeriklerinin hazırlanması,product,medium,Developer_I,2025-10-21 14:28:18,2025-11-28 19:57:40,38.22872685185185,on_time,0
+516,Sosyal Medya- İlk üç postun görselleştirilmesi,product,medium,Developer_I,2025-10-21 14:28:51,2025-11-28 19:57:09,38.227986111111115,on_time,0
+517,Linkedn Paylaşımlarına başlanması,product,medium,Developer_I,2025-10-21 14:29:23,2025-11-28 19:57:44,38.22802083333333,on_time,0
+518,Design ile Post Review,product,medium,Developer_I,2025-10-21 14:30:32,2025-11-28 19:57:04,38.22675925925926,on_time,0
+519,Design ile Sosyal Medya Toplantısı,product,medium,Developer_I,2025-10-21 14:33:08,2025-11-28 19:56:58,38.22488425925926,on_time,0
+520,LoRa Kurulu Araştırmaları - Vol.2,research,medium,Developer_F,2025-10-21 23:22:21,2025-11-23 21:29:57,32.92194444444444,delayed,0
+521,social media meeting part2,design,medium,Developer_D,2025-10-24 20:01:56,2025-10-27 22:23:50,3.0985416666666667,on_time,0
+522,Haritalarım ekranı güncellemesi,tech,medium,Developer_J,2025-10-29 11:00:13,2025-11-24 17:45:32,26.28146990740741,on_time,0
+523,Profilim ekranı güncellemesi,tech,medium,Developer_J,2025-10-29 11:00:47,2025-12-22 13:41:14,54.111423611111114,delayed,0
+524,Uygulama genelindeki png kontrol ve güncellemeleri,tech,medium,Developer_J,2025-10-29 11:02:22,2025-12-22 13:40:47,54.11001157407407,delayed,0
+526,Broşür İçerik,research,medium,Developer_F,2025-10-29 12:01:02,2025-10-29 12:01:23,0.00024305555555555555,on_time,0
+527,KOSGEB,research,medium,Developer_F,2025-11-03 21:23:04,2025-11-03 21:23:38,0.0003935185185185185,on_time,0
+528,Drive düzenlenmesi,research,medium,Developer_F,2025-11-03 21:23:55,2025-11-09 19:48:25,5.933680555555555,on_time,0
+530,Kicad eğitimi - can,tech,medium,Developer_M,2025-11-04 22:40:30,2025-11-30 14:10:13,25.645636574074075,on_time,0
+531,Kicad eğitimi - ayşegül,tech,medium,Developer_M,2025-11-04 22:41:05,2025-11-30 14:12:38,25.646909722222222,on_time,0
+532,Lora Gateway Sipariş,tech,medium,Developer_M,2025-11-04 22:42:38,2025-11-30 14:12:48,25.645949074074075,on_time,0
+533,Bildirimler ekranı png geçiş flicker düzeltilecek,tech,medium,Developer_J,2025-11-05 12:57:44,2026-01-28 13:17:59,84.0140625,delayed,0
+534,Sosyal Medya 3 Kasım haftası postları (3 post),design,medium,Unassigned,2025-11-05 20:23:45,2025-11-17 21:23:55,12.041782407407407,on_time,0
+535,Acil durum ekranı,tech,medium,Developer_N,2025-11-05 20:54:46,2025-12-03 20:02:21,27.963599537037037,on_time,0
+536,Acil durum ekranı,tech,medium,Developer_J,2025-11-05 20:55:17,2025-11-12 20:40:51,6.989976851851852,on_time,0
+537,4-5-6. postların hazırlanması,product,medium,Developer_I,2025-11-12 19:30:55,2025-11-28 19:51:36,16.014363425925925,on_time,0
+538,Postların içerik ve açıklamalarının yazılması,product,medium,Developer_I,2025-11-12 19:31:13,2025-11-28 19:51:24,16.014016203703704,on_time,0
+539,Reels içerikleri için ön hazırlık yapılması,product,medium,Developer_I,2025-11-12 19:31:46,2025-11-28 19:51:45,16.013877314814813,on_time,0
+540,17 kasım postları ve içerik w/product17 kasım postları ve içerik w/product,design,medium,Unassigned,2025-11-12 20:20:18,2025-12-13 13:09:48,30.701041666666665,delayed,0
+545,Node firmware’ini baştan modüler ve temiz bir yapıya dönüştürme,tech,medium,Developer_A,2025-11-15 23:28:03,2025-11-15 23:32:08,0.0028356481481481483,on_time,0
+546,LoRaWAN ve Wi-Fi durumlarını ekranda gösterilebilir hale getirme (Screen API oluşturma),tech,medium,Developer_A,2025-11-15 23:28:16,2025-11-15 23:36:56,0.0060185185185185185,on_time,0
+547,"LoRaWAN credential, Wi-Fi bilgisi, ayar ve logları kalıcı hale getirme (Persistence API geliştirme)",tech,medium,Developer_A,2025-11-15 23:28:26,2025-11-15 23:37:10,0.0060648148148148145,on_time,0
+548,ASCII tabanlı gelişmiş loglama altyapısını kurma,tech,medium,Developer_A,2025-11-15 23:28:42,2025-11-15 23:37:03,0.005798611111111111,on_time,0
+549,SoftAP ve STA modlarının aynı anda çalışabilir hale getirilmesi,tech,medium,Developer_A,2025-11-15 23:28:51,2025-11-15 23:38:40,0.00681712962962963,on_time,0
+550,Node cihazını yönetmek ve debug etmek için WebUI API katmanını oluşturma,tech,medium,Developer_A,2025-11-15 23:29:03,2025-11-15 23:40:04,0.007650462962962963,on_time,0
+551,RTC olmadan Wi-Fi üzerinden zaman senkronizasyonunu mümkün hale getirme,tech,medium,Developer_A,2025-11-15 23:29:14,2025-11-15 23:41:10,0.008287037037037037,on_time,0
+552,Durum bazlı LED davranışlarını yönetilebilir hale getirme (LED kontrol modülü),tech,medium,Developer_A,2025-11-15 23:29:21,2025-11-15 23:42:37,0.009212962962962963,on_time,0
+553,Yeni bir LoRaWAN gateway’in uzak VPS’teki ChirpStack ile stabil bağlantı kurabilir hale getirilmesi,tech,medium,Developer_A,2025-11-15 23:29:34,2025-11-15 23:46:27,0.011724537037037037,on_time,0
+554,Node’un gateway’e düzenli ve güvenilir uplink gönderebilir hale getirilmesi,tech,medium,Developer_A,2025-11-15 23:29:42,2025-11-15 23:49:24,0.013680555555555555,on_time,0
+555,Heartbeat protokolü ile node sağlık takibini ve downlink hazırlığını mümkün hale getirme,tech,medium,Developer_A,2025-11-15 23:29:48,2025-11-15 23:53:10,0.016226851851851853,on_time,0
+556,VPS üzerinde LoRaWAN paketlerini işleyen mesajlaşma backend katmanını çalışır hale getirme,tech,medium,Developer_A,2025-11-15 23:29:53,2025-11-16 00:03:12,0.023136574074074073,on_time,0
+557,Node üzerinde mesaj paketlerini decode/encode edilebilir hale getirme,tech,medium,Developer_A,2025-11-15 23:30:00,2025-11-16 00:05:16,0.02449074074074074,on_time,0
+558,Hedefli mesajların uçtan uca gönderilip alınabilir hale getirilmesi,tech,medium,Developer_A,2025-11-15 23:30:07,2025-11-16 00:05:50,0.02480324074074074,on_time,0
+559,Mail hosting ile ilgili araştırma ve karar,tech,medium,Developer_A,2025-11-15 23:54:19,2025-11-26 15:51:45,10.66488425925926,on_time,0
+562,ISGenius uygulamasının node cihazlara bağlanıp LoRaWAN ağı üzerinden mesaj gönderebilir hale getirilmesi (internet yokken acil durum iletişimini mümkün kılma),tech,medium,Developer_A,2025-11-16 00:15:41,2026-04-01 20:30:49,136.84384259259258,delayed,0
+564,Product sosyal medya içerik toplantısı ay sonu için,design,medium,Unassigned,2025-11-17 21:24:57,2025-11-17 21:25:43,0.0005324074074074074,on_time,0
+565,Ekip içerik videosu fotoğrafları*29 kasım da yapılacak,design,medium,Unassigned,2025-11-17 21:25:31,2025-12-13 13:10:29,25.65622685185185,delayed,0
+569,Profil kısmının aktive edilmesi ve /profil route'unun oluşturulması.,tech,medium,Developer_N,2025-11-19 18:46:59,2026-01-07 16:05:39,48.887962962962966,delayed,0
+570,LoRa Gateway Gümrük,research,medium,Developer_F,2025-11-19 20:37:47,2025-11-19 20:38:11,0.0002777777777777778,on_time,0
+572,sollen.com.tr düzenleme,tech,medium,Developer_H,2025-11-26 15:03:54,2025-12-01 17:35:29,5.105266203703704,on_time,0
+573,Bedirhan Setup Yardımı,tech,medium,Developer_A,2025-11-26 15:52:02,2025-11-26 15:52:17,0.00017361111111111112,on_time,0
+574,Lorawan Node-GW range test,tech,high,Developer_A,2025-11-26 16:00:48,2025-11-30 13:53:43,3.911747685185185,on_time,0
+575,sosyal medya 24 kasım haftası,design,medium,Developer_D,2025-11-26 22:37:17,2025-12-13 13:10:08,16.606145833333333,on_time,0
+576,sosyal medya 1 aralık haftası,design,medium,Developer_D,2025-11-26 22:37:30,2025-12-13 13:10:13,16.606053240740742,on_time,0
+577,Reels çekimlerine başlanması,product,medium,Developer_I,2025-11-28 19:28:19,2025-11-28 19:51:53,0.01636574074074074,on_time,0
+578,Postların ve içerik açıklamalarının yazılması,product,medium,Developer_C,2025-11-28 19:47:46,2025-12-03 20:04:02,5.011296296296297,on_time,0
+579,4-5-6. postların hazırlanması,product,medium,Developer_C,2025-11-28 19:48:08,2025-12-03 20:03:58,5.01099537037037,on_time,0
+580,Reels içeriklerine ön hazırlık yapılması,product,medium,Developer_C,2025-11-28 19:48:33,2025-12-03 20:03:55,5.010671296296296,on_time,0
+581,Reels çekimlerine başlanması,product,medium,Developer_C,2025-11-28 19:48:49,2025-12-03 20:04:25,5.010833333333333,on_time,0
+582,Linkedn 2.post hazırlanması,product,medium,Developer_I,2025-11-28 19:49:11,2025-11-28 19:52:05,0.002013888888888889,on_time,0
+583,Linkedn 2.post hazırlanması,product,medium,Developer_C,2025-11-28 19:49:28,2025-12-03 20:03:45,5.009918981481482,on_time,0
+586,İnstagram post açıklamalarının hazırlanması,product,medium,Developer_C,2025-11-28 19:55:27,2025-12-03 20:03:18,5.005451388888889,on_time,0
+587,Bedirhan set-up,tech,medium,Developer_E,2025-11-28 19:57:31,2026-01-07 17:29:29,39.897199074074074,on_time,0
+588,Omer set-up,tech,medium,Developer_E,2025-11-28 19:58:16,2025-11-28 19:58:48,0.00037037037037037035,on_time,0
+589,meete katılma,tech,medium,Developer_N,2025-11-28 20:54:31,2025-11-28 20:58:32,0.002789351851851852,on_time,0
+594,Flutter Eğitimi,tech,medium,Developer_H,2025-12-01 16:15:28,2026-02-11 14:12:01,71.91427083333333,delayed,0
+595,Sollen 2026 Yatırım ve Destek Programları Araştırmaları - Ön Araştırma,research,medium,Developer_F,2025-12-01 23:36:34,2025-12-16 22:58:26,14.97351851851852,delayed,0
+602,"Profil ekranına ""Profil Bilgisi, Sağlık Durumu, Tatbikat Durumu, Eğitim/Yetkinlik"" tablerinin eklenmesi ve bilgilerle doldurulmaları",tech,medium,Developer_N,2025-12-03 20:03:52,2026-01-28 18:08:14,55.919699074074074,delayed,0
+603,ömer-branchi main mergeleme,tech,medium,Developer_N,2025-12-10 19:14:30,2025-12-17 13:20:45,6.754340277777778,on_time,0
+604,Arayüz toplantısı ve planlaması w/melih,design,medium,Unassigned,2025-12-13 13:11:03,2026-01-07 20:10:29,25.291273148148147,delayed,0
+605,Ay sonu post planlaması-aralık,design,medium,Unassigned,2025-12-13 13:11:43,2026-01-07 20:10:27,25.29078703703704,delayed,0
+606,Product ile toplantı video ve içerik planlaması,design,medium,Unassigned,2025-12-13 13:12:13,2026-01-07 20:10:23,25.290393518518517,delayed,0
+607,ISGenius Sürdürülebilirlikle Alakamız Dokümanı,research,medium,Developer_F,2025-12-16 23:00:41,2025-12-27 21:15:50,10.9271875,on_time,0
+609,Admin tarafı LORA ekranı template,tech,medium,Developer_E,2025-12-17 18:45:57,2026-02-18 19:58:43,63.05053240740741,delayed,0
+610,Admin irtibat sayfası map,tech,medium,Developer_E,2025-12-17 20:15:25,2026-02-18 19:58:47,62.988449074074076,delayed,0
+613,"Sollen 2026 Yatırım ve Destek Programları Araştırmaları - Etkinlik, Fuar vb",research,medium,Developer_F,2025-12-23 21:12:00,2025-12-28 20:48:31,4.983692129629629,on_time,0
+615,ticket bug fix,tech,medium,Developer_E,2026-01-07 18:17:23,2026-02-18 19:58:33,42.07025462962963,on_time,0
+616,Anket Display - Mobile Acil Durum Modu,tech,medium,Developer_H,2026-01-07 18:20:13,2026-02-11 14:12:11,34.82775462962963,on_time,0
+617,Kartal Demo,tech,medium,Developer_A,2026-01-07 19:52:31,2026-01-07 19:53:05,0.0003935185185185185,on_time,0
+618,dBm - amplifier kullanımı araştırması,tech,medium,Developer_A,2026-01-07 19:55:38,2026-01-07 19:55:50,0.0001388888888888889,on_time,0
+621,Mirsu ile sosyal medya toplantısı,product,medium,Developer_C,2026-01-07 20:06:57,2026-01-07 20:07:43,0.0005324074074074074,on_time,0
+622,Mirsu ile sosyal medya toplantısı,product,medium,Developer_I,2026-01-07 20:07:13,2026-01-07 20:07:55,0.0004861111111111111,on_time,0
+623,Hazır tasarımlar için içerik çalışması,product,medium,Developer_C,2026-01-07 20:07:50,2026-01-28 20:36:29,21.019895833333333,on_time,0
+624,Hazır tasarımlar için içerik çalışması,product,medium,Developer_I,2026-01-07 20:08:34,2026-02-11 20:03:36,34.99655092592592,on_time,0
+626,Haftalık post planlaması,design,medium,Developer_D,2026-01-07 20:11:17,2026-02-04 20:06:26,27.996631944444445,delayed,0
+631,İçerik-post toplantısı,design,medium,Developer_D,2026-01-07 20:12:27,2026-02-04 20:06:16,27.99570601851852,delayed,0
+633,bora-front test,tech,medium,Developer_E,2026-01-21 15:15:19,2026-01-21 19:47:46,0.18920138888888888,on_time,0
+634,"UI Toplantısı w/elif, bora, ömer, zeysu",tech,medium,Developer_E,2026-01-21 19:50:02,2026-02-04 18:37:49,13.949849537037037,on_time,0
+635,Nav Bar Switch - ISGenius Mobil App,tech,medium,Developer_E,2026-01-21 19:52:39,2026-02-18 19:58:36,28.004131944444445,on_time,0
+637,Eğitimler  - ISGenius Mobil App,tech,medium,Developer_E,2026-01-21 19:53:46,2026-02-18 19:58:39,28.003391203703703,on_time,0
+638,VC'ler Full Son Liste&Uluslararası Etkinliklerle Son 2026 Takvimi,research,medium,Developer_F,2026-01-21 19:54:32,2026-01-21 21:41:05,0.07399305555555556,on_time,0
+639,sosyal medya reklam first one,design,medium,Unassigned,2026-01-21 20:02:51,2026-01-21 20:03:22,0.0003587962962962963,on_time,0
+640,sosyal medya istatistik datası ve taslak,design,medium,Developer_D,2026-01-21 20:03:06,2026-02-04 20:06:35,14.002418981481481,on_time,0
+641,zeynep ile mobil app anket datası toplama,design,medium,Developer_D,2026-01-21 20:03:34,2026-02-04 20:06:04,14.00173611111111,on_time,0
+643,kızlarla ay başı toplantısı-aylık plan,design,medium,Unassigned,2026-01-21 20:03:51,2026-01-21 20:04:06,0.00017361111111111112,on_time,0
+645,Instagram istatistiklerinin çıkarılması,product,medium,Developer_I,2026-01-21 20:05:39,2026-02-11 20:03:45,20.998680555555556,on_time,0
+646,Instagram reklam verme,product,medium,Developer_I,2026-01-21 20:06:40,2026-01-21 20:06:54,0.00016203703703703703,on_time,0
+647,Fetching issues on main tabs and information tabs.,tech,medium,Developer_J,2026-01-28 13:12:40,2026-01-28 13:18:09,0.0038078703703703703,on_time,0
+648,Textbox glitch on talep olustur,tech,medium,Developer_J,2026-01-28 13:19:49,2026-03-11 21:04:38,42.32278935185185,on_time,0
+649,Admin Panel İrtibat Kişileri Ekranı,tech,medium,Developer_N,2026-01-28 20:04:54,2026-03-08 11:43:12,38.65159722222222,on_time,0
+650,2026 planlamaları part 1,research,medium,Developer_F,2026-01-28 20:24:42,2026-03-08 13:19:57,38.70503472222222,delayed,0
+652,Admin LORA Ekranının SS'lerini Mirsu'ya iletme - ISGenius Web,tech,medium,Developer_N,2026-01-30 20:16:48,2026-03-08 11:43:14,36.64335648148148,on_time,0
+659,Başvuru Hazırlıkları 1,research,medium,Developer_F,2026-02-09 20:45:51,2026-03-08 13:20:29,26.69071759259259,delayed,0
+660,6 şubat postları hazırlığı,product,medium,Developer_I,2026-02-11 20:02:53,2026-02-11 20:03:40,0.0005439814814814814,on_time,0
+661,6 şubat postları hazırlığı,product,medium,Developer_C,2026-02-11 20:02:59,2026-02-11 20:03:10,0.0001273148148148148,on_time,0
+663,Bedirhan Ceylan ile branching toplantısı,tech,medium,Developer_E,2026-02-11 20:05:11,2026-03-11 18:44:04,27.94366898148148,on_time,0
+664,Sollen Email setup,tech,medium,Developer_A,2026-02-18 19:24:39,2026-02-18 19:24:57,0.00020833333333333335,on_time,0
+666,Database Gereklilikleri Raporu,tech,medium,Developer_N,2026-02-25 19:42:45,2026-03-11 18:52:00,13.964756944444444,on_time,0
+669,Database Gereklilik Toplantısı,tech,medium,Developer_E,2026-03-04 19:38:17,2026-03-11 21:00:00,7.056747685185186,on_time,0
+670,Pitch Deck Düzenlemeleri,research,medium,Unassigned,2026-03-04 19:50:53,2026-04-01 15:56:46,27.83741898148148,delayed,0
+671,Mart-Şubat Başvuruları,research,medium,Developer_F,2026-03-04 19:51:12,2026-04-01 15:57:19,27.83758101851852,delayed,0
+672,Fiyat Güncelleme Toplantısı,research,medium,Developer_F,2026-03-04 19:52:15,2026-04-01 15:57:47,27.837175925925926,delayed,0
+673,[BE] User Model Güncellemesi: Ad ve Lokasyon,tech,medium,Developer_N,2026-03-07 23:30:35,2026-04-12 19:05:00,35.81556712962963,on_time,0
+678,[UI/UX] Arayüz İyileştirmeleri ve Tasarım Kontrolü,tech,medium,Developer_N,2026-03-07 23:33:41,2026-04-12 19:05:02,35.8134375,on_time,0
+680,[DevOps] Master Merge ve Genel Kontrol,tech,medium,Developer_E,2026-03-07 23:34:22,2026-03-25 19:38:34,17.83625,on_time,0
+681,Altium Setup to Cans PC,tech,medium,Developer_M,2026-03-08 10:42:13,2026-04-01 20:05:23,24.391087962962963,on_time,0
+685,OMER FARUK İŞERİ SORUN ÇÖZME TOPLANTISI,tech,medium,Developer_E,2026-03-11 18:10:07,2026-03-25 19:38:41,14.06150462962963,on_time,0
+686,Gülnihal ile Fiyatlandırma Toplantısı,product,medium,Developer_I,2026-03-11 20:30:07,2026-03-25 20:01:19,13.98,on_time,0
+687,Gülnihal ile Fiyatlandırma Toplantısı,product,medium,Developer_C,2026-03-11 20:30:31,2026-03-25 20:14:27,13.988842592592592,on_time,0
+688,Lora Pipeline Test - Toplantısı,tech,medium,Developer_E,2026-03-11 21:01:50,2026-04-01 15:04:42,20.75199074074074,on_time,0
+690,Sollen Web için sınıflandırma ve tasarım için İdil ile toplantı,tech,medium,Developer_H,2026-03-11 21:10:23,2026-03-11 21:15:35,0.003611111111111111,on_time,0
+695,tunaya onboard,operations,medium,Developer_G,2026-03-12 12:03:32,2026-03-12 12:05:08,0.0011111111111111111,on_time,0
+698,Gider güncellemeleri,product,medium,Developer_C,2026-03-25 20:00:57,2026-04-07 19:48:59,12.991689814814816,on_time,0
+713,Linkedln Postu Paylaşımı,product,medium,Developer_I,2026-04-07 19:43:01,2026-04-07 19:49:10,0.004270833333333333,on_time,0
+714,Linkedln Postu Paylaşımı,product,medium,Developer_C,2026-04-07 19:47:03,2026-04-07 19:49:08,0.0014467592592592592,on_time,0
