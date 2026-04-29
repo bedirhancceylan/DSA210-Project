@@ -1,0 +1,6 @@
+Model,CV ROC-AUC,Test ROC-AUC,Test Accuracy,Test F1 (delayed)
+Logistic Regression,0.577 ± 0.039,0.639,0.62,0.53
+Decision Tree,0.582 ± 0.030,0.573,0.6,0.47
+kNN (k=5),0.662 ± 0.050,0.71,0.7,0.47
+Gradient Boosting,0.684 ± 0.033,0.725,0.71,0.48
+Random Forest,0.708 ± 0.040,0.741,0.71,0.55
