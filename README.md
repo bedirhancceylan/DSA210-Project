@@ -5,6 +5,10 @@
 
 This project analyzes 486 task records from the development workflow of [Sollen](https://www.sollen.io), an early-stage startup, to identify which factors are associated with longer completion times and delays. The pipeline covers exploratory analysis, hypothesis testing, feature engineering, and machine learning classification.
 
+📄 **[Final Report (PDF)](DSA210_Final_Report_Bedirhan_Ceylan.pdf)** · **[Final Report (DOCX)](DSA210_Final_Report_Bedirhan_Ceylan.docx)**
+🌐 **[Project Website](https://bedirhancceylan.github.io/DSA210-Project/)**
+🤖 **[AI Usage Disclosure](AI_USAGE.md)**
+
 ---
 
 ## Dataset
@@ -44,6 +48,11 @@ dsa210-project/
 │   ├── ml_day3.ipynb                  # ML Day 3: tree ensembles
 │   └── ml_day4.ipynb                  # ML Day 4: final model
 ├── plots/                             # 22 generated figures
+├── docs/
+│   └── index.html                     # Project website (GitHub Pages)
+├── DSA210_Final_Report_Bedirhan_Ceylan.pdf
+├── DSA210_Final_Report_Bedirhan_Ceylan.docx
+├── AI_USAGE.md
 ├── project_proposal.pdf
 ├── requirements.txt
 └── README.md
@@ -55,19 +64,19 @@ dsa210-project/
 
 | # | Question | Test | Result |
 |---|---|---|---|
-| 1 | Does duration differ across categories? | Kruskal-Wallis | Reject H₀ (p < 0.0001) — product/tech longest, ops/research shortest |
-| 2 | Is category associated with delay status? | Chi-Square | Fail to reject (p = 0.275) — category alone is not a strong predictor |
-| 3 | Do delayed tasks take longer than on-time? | Mann-Whitney U (one-sided) | Reject H₀ (p < 0.0001, r = 0.876) — by construction, but quantified |
+| 1 | Does duration differ across categories? | Kruskal-Wallis | Reject H₀ (H = 39.97, p < 0.0001) — product/tech longest, ops/research shortest |
+| 2 | Is category associated with delay status? | Chi-Square | Fail to reject (χ² = 5.13, df = 4, p = 0.275) — category alone is not a strong predictor |
+| 3 | Do delayed tasks take longer than on-time? | Mann-Whitney U (one-sided) | Reject H₀ (U = 50,252, p < 0.0001, r = 0.876) — by construction, but quantified |
 
-Key insight: the chi-square result motivated the ML phase. Since category alone does not predict delay, we hypothesized that the real signal lies in **feature interactions** (developer × workload × timing) — which tree ensembles captured.
+**Key insight:** the chi-square negative result motivated the ML phase. Since category alone does not predict delay, we hypothesized that the real signal lies in **feature interactions** (developer × workload × timing) — which tree ensembles captured.
 
 ---
 
 ## Machine Learning Pipeline
 
-### Feature Engineering (Day 1)
+### Feature Engineering
 
-Built 10 leakage-free features from the raw columns:
+10 leakage-free features were constructed from the raw columns:
 
 | Feature | Source |
 |---|---|
@@ -99,7 +108,7 @@ Random Forest selected as the final model — best on every metric.
 
 ### Feature Importance (Permutation, Random Forest)
 
-| Feature | Importance (ROC-AUC drop) |
+| Feature | Importance (mean ROC-AUC drop) |
 |---|---|
 | `creation_month_num` | 0.063 |
 | `task_category` | 0.043 |
@@ -108,7 +117,28 @@ Random Forest selected as the final model — best on every metric.
 | `team_total_load_at_creation` | 0.033 |
 | `dev_avg_past_duration` | 0.027 |
 
-Top finding: developer-history features (`dev_historical_delay_rate`, `dev_avg_past_duration`) and team load are stronger signals than the task's own category — supporting the chi-square conclusion that delay is a function of *who is doing the work and how much they already have on their plate*, not just *what kind of task it is*.
+**Top finding:** developer-history features (`dev_historical_delay_rate`, `dev_avg_past_duration`) and team load are stronger signals than the task's own category — supporting the chi-square conclusion that delay is a function of *who is doing the work and how much they already have on their plate*, not just *what kind of task it is*.
+
+---
+
+## Limitations
+
+- **Sample size.** 486 tasks is small for ML; F1 std is ±0.045 across folds.
+- **Single-team scope.** All data from one startup; patterns may not generalize.
+- **Threshold definition.** 1.5× category median is conventional but not validated against external business definitions of delay.
+- **Missing context features.** Story points, dependencies, vacation days, external blockers — none captured in Azure DevOps export.
+- **Two zero-variance fields** (`priority_level`, `has_urgent_tag`) reflect the team not actively using these workflow fields — a process-level finding.
+- **Interpretability trade-off.** Random Forest is harder to explain than logistic regression for stakeholder-facing deployment.
+
+## Future Work
+
+- **Threshold tuning** — current default of 0.5 produces a conservative model; precision-recall analysis with a domain cost matrix would identify a more useful operating point.
+- **Hyperparameter tuning** — `GridSearchCV` over `n_estimators`, `max_depth`, `min_samples_leaf`.
+- **Time-series cross-validation** — current shuffled CV does not respect temporal order over the 18-month window.
+- **Richer feature set** — sprint identifiers, parent/child task links, story points, national holidays, team velocity rolling averages.
+- **Multi-target prediction** — extend from binary classification to duration regression.
+- **Deployment** — lightweight web interface accepting task category, assignee, current load → returns delay probability.
+- **Benchmarking** — compare model against human intuition and trivial heuristics (assignee's prior delay rate alone) before any deployment decision.
 
 ---
 
@@ -125,8 +155,27 @@ jupyter notebook
 
 Then run notebooks in order: `eda.ipynb` → `ml.ipynb` → `ml_day2.ipynb` → `ml_day3.ipynb` → `ml_day4.ipynb`.
 
+All notebooks use `random_state=42` for any stochastic operation, so results are exactly reproducible.
+
+### Milestone tags
+
+- **`milestone1`** (cc73f8a) — EDA + hypothesis testing + project proposal (April 14)
+- **`milestone2`** (722b23b) — Complete ML pipeline + final Random Forest model (April 29)
+- **`milestone3`** (final) — Final report + website + AI usage documentation (May 18)
+
+---
+
+## Tools & Technologies
+
+- Python 3.10+
+- pandas, numpy, matplotlib, seaborn, scipy
+- scikit-learn (preprocessing, models, evaluation, permutation importance)
+- joblib (model persistence)
+- Jupyter Notebook
+- Azure DevOps (data source)
+
 ---
 
 ## AI Usage Disclosure
 
-Per project guidelines: code structure, hypothesis test selection, feature engineering decisions, and notebook organization were developed iteratively with Claude (Anthropic). All code was reviewed, executed, and verified locally. Analytical decisions (target leakage handling, feature selection, model choice rationale) were made by the author.
+Per project guidelines, all use of AI tools is documented. See **[AI_USAGE.md](AI_USAGE.md)** for the full disclosure, including categorized prompts and division of contributions between Claude and the author.
